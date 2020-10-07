@@ -39,10 +39,12 @@ for i in range(len(candidate)):
 
 # Calculation
 total = countKhan + countCorrey + countLi + countTooley
-Khan_percent = round(countKhan / total * 100, 3)
-Correy_percent = round(countCorrey / total * 100, 3)
-Li_percent = round(countLi / total * 100, 3)
-Tooley_percent = round(countTooley / total * 100, 3)
+Khan_percent = format(countKhan / total * 100, ".3f")
+Correy_percent = format(countCorrey / total * 100, ".3f")
+Li_percent = format(countLi / total * 100, ".3f")
+Tooley_percent = format(countTooley / total * 100, ".3f")
+
+# print(format(Khan_percent, ".3f"))
 
 # Printing in terminal
 print(f"""Election Results

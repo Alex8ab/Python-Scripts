@@ -1,9 +1,10 @@
-# PyBoss Employee Records Analysis 
- Python script for analyzing the employees records of a company.
+# Python Scripts
+
+## PyBank financial Records Analysis 
+Python script for analyzing the financial records of a company, printing in the terminal and exporting to a text file:
  
- - Importa employees data.
- - Convert to new format and export data.
- - Name column be split into separate First Name and Last Name columns.
- - DOB data be re-written into MM/DD/YYYY format.
- - SSN data be re-written such that the first five numbers are hidden from view.
- - State data be re-written as simple two-letter abbreviations.
+-The total number of months included in the dataset.
+-The net total amount of "Profit/Losses" over the entire period.
+-The average of the changes in "Profit/Losses" over the entire period.
+-The greatest increase in profits (date and amount) over the entire period.
+-The greatest decrease in losses (date and amount) over the entire period.

@@ -1,6 +1,6 @@
 # Python Scripts
 
-## PyBank Financial Records Analysis 
+## PyBank - Financial Records Analysis 
 Python script that analyzes the financial records of a company, printing in the terminal and exporting to a text file:
 - The total number of months included in the dataset.
 - The net total amount of "Profit/Losses" over the entire period.
@@ -8,7 +8,7 @@ Python script that analyzes the financial records of a company, printing in the 
 - The greatest increase in profits (date and amount) over the entire period.
 - The greatest decrease in losses (date and amount) over the entire period.
 
-## PyPoll Election Votes Analysis
+## PyPoll - Election Votes Analysis
 Python script that analyzes the votes and calculates each of the following:
 - The total number of votes cast.
 - A complete list of candidates who received votes.

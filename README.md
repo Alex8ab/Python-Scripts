@@ -8,7 +8,8 @@ Python script that analyzes the financial records of a company, printing in the 
 - The greatest increase in profits (date and amount) over the entire period.
 - The greatest decrease in losses (date and amount) over the entire period.
 
-Link for the [Results](/PyBank/analysis/result.txt) text file
+Link for the [Results](/PyBank/analysis/result.txt) text file.
+![Results](/PyBank/PyBank.png)
 
 ## PyPoll - Election Votes Analysis
 Python script that analyzes the votes and calculates each of the following:
@@ -19,3 +20,4 @@ Python script that analyzes the votes and calculates each of the following:
 - The winner of the election based on popular vote.
 
 Then printing in the terminal and exporting to a [Results](/PyPoll/analysis/result.txt) text file.
+![Results](/PyBank/PyBank.png)

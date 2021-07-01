@@ -22,4 +22,4 @@ Python script that analyzes the votes and calculates each of the following:
 
 Then printing in the terminal and exporting to a [Results](/PyPoll/analysis/result.txt) text file.
 
-![Results](/PyBank/PyPoll.png)
+![Results](/PyPoll/PyPoll.png)
